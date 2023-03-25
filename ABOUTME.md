@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ninjarogie
 - 👀 I’m interested in Football and Programming
-- 🌱 I’m currently learning Python, LuaU and Java
+- 🌱 I’m currently learning Web Development.
 
 
 <!---
